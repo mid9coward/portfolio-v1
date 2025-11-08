@@ -1,6 +1,6 @@
 import React from "react";
 import "./Hero.css";
-import heroImg from "../../assets/hero-img.jpg";
+import heroImg from "../../assets/568553317_122244975992123274_3837605151163771119_n.jpg";
 import SocialLinks from "../Navbar/SocialLinks/SocialLinks";
 import Btn from "../Btn/Btn";
 
