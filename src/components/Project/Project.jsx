@@ -1,11 +1,10 @@
-import React from 'react';
-import './Project.css';
+import "./Project.css";
 
 const Project = ({ project }) => {
   const { img, title, description, tags, liveLink, ghLink, id } = project;
   return (
     <div
-      className={`project ${id % 2 === 0 ? 'even-project' : ''} animate`}
+      className={`project ${id % 2 === 0 ? "even-project" : ""} animate`}
       data-animate="slideInLeft 2s"
     >
       <div className="project-image">
