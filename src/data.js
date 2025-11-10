@@ -29,7 +29,7 @@ export const projects = [
   },
   {
     id: 4,
-    img: "/src/assets/stockmarket.webp",
+    img: "https://res.cloudinary.com/dyexdgldg/image/upload/v1762748599/macbook_kprsrd.jpg",
     title: "Stock Market Web App",
     description: `AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and Inngest! Track real-time prices, set personalized alerts, explore company insights, and manage watchlists.`,
     tags: [
@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     id: 5,
-    img: "/src/assets/macbook.jpg",
+    img: "https://res.cloudinary.com/dyexdgldg/image/upload/v1762748599/stockmarket_psjkyd.webp",
     title: "Apple Mac Website",
     description: `Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS! Showcase products in immersive 3D scenes, scroll-animated models, and pinned sections.`,
     tags: ["React", "Gsap", "Threejs", "Tailwind", "Zustand", "Javascript"],
